@@ -12,4 +12,4 @@ This Repository contains second project -
 
 System Requirements -
 
-   A basic C++ compiler is required (I've used MINGW).
+   A basic C++ compiler is required .
